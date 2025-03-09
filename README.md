@@ -1,4 +1,4 @@
-# Build your own portfolio! 🚀
+# Build your own web portfolio! 🚀
 
 Welcome to the Class of Friday Afternoon with Duo Mochii (Web Portfolio Workshop)! 
 
